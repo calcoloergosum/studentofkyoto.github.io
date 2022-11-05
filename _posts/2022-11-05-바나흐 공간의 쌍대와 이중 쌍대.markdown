@@ -4,7 +4,7 @@ title:  "바나흐 공간의 쌍대와 이중 쌍대"
 date:   2022-11-05 12:00:00 +0900
 categories: category theory, natural transformation
 ---
-[원 문서]: "https://www.johndcook.com/blog/2017/03/16/duals-and-double-duals-of-banach-spaces/"
+[원문 보기](https://www.johndcook.com/blog/2017/03/16/duals-and-double-duals-of-banach-spaces/)
 
 자연 변환과 비자연 변환(unnatural transformation)의 표준적인 예는 선형대수학에서 나오는데, 바로 벡터 공간과 쌍대 공간, 그리고 이중 쌍대공간의 관계이다. 유한 차원의 경우에 대해 잠깐 살펴보고, 무한 차원의 경우에 집중해보자.
 

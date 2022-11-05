@@ -4,7 +4,7 @@ title:  "자연 변환"
 date:   2022-11-05 11:00:05 +0900
 categories: category theory, natural transformation
 ---
-[원 문서]: "https://www.johndcook.com/blog/2017/03/16/natural-transformations/"
+[원문 보기](https://www.johndcook.com/blog/2017/03/16/natural-transformations/)
 
 카테고리 이론의 추상화의 사다리는 카테고리로 시작하여, 그 후 함자, 그리고 자연 변환에 이른다. 하지만 안타깝게도 자연 변환의 정의는 한 눈에 보기에 그다지 자연스럽지 않다. 카테고리 이론이 발전하게 된 첫 동기가 "자연스러움"을 정식화定式化하는 것이었다는 걸 생각해 보면, 참 역설적이다. 역사적으로, 함자는 자연 변환을 정의하기 위해 정의되었고, 카테고리는 함자를 정의하기 위해 정의되었다. 지금의 순서와는 정반대이다.
 
