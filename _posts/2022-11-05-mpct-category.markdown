@@ -2,7 +2,7 @@
 layout: mathpost
 title:  "메타프로그래밍: 카테고리의 정의"
 date:   2022-11-05 20:40:05 +0900
-categories: 
+tags: category-theory
 ---
 # 카테고리의 정의
 ## 직관

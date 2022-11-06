@@ -2,7 +2,7 @@
 layout: mathpost
 title:  "바나흐 공간의 쌍대와 이중 쌍대"
 date:   2022-11-05 12:00:00 +0900
-categories: category theory, natural transformation
+tags: category-theory natural-transformation functional-analysis
 ---
 [원문 보기](https://www.johndcook.com/blog/2017/03/16/duals-and-double-duals-of-banach-spaces/)
 

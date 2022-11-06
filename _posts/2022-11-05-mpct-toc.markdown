@@ -1,0 +1,17 @@
+---
+layout: mathpost
+title:  "메타프로그래밍: 목차"
+date:   2022-11-05 22:40:00 +0900
+published: true
+tags: category-theory
+---
+
+### 메타프로그래밍: 카테고리 이론
+
+[들어가며]({% post_url 2022-11-05-mpct-intro %})
+
+[카테고리란]({% post_url 2022-11-05-mpct-category %})
+
+[함자란]({% post_url 2022-11-06-mpct-functor %})
+
+[자연변환이란]({% post_url 2022-11-06-mpct-natural-transformation %})
